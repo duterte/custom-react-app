@@ -1,0 +1,7 @@
+# folders
+/node_modules
+/credentials
+/dist
+
+#files
+.env
